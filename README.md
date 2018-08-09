@@ -1,2 +1,2 @@
 # GYM
-Spring Web MVC * Eclipse * Hibernate * GYM
+Spring Web MVC * Eclipse * Hibernate * MySQL * GYM
